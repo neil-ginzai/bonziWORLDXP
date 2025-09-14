@@ -1,4 +1,4 @@
-let socket = io("https://bonziworld.org");
+let socket = io("https://bonzi.gay/");
 delete io;
 let moving = false;
 let error_id = "error_disconnect";
