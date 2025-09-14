@@ -1,0 +1,10 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20","time":"2024-07-06T23:05:35Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-07-06T23:05:35Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2024-07-06T23:05:44Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nodemon","time":"2024-07-06T23:05:44Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nodetouch","time":"2024-07-06T23:05:44Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2024-07-06T23:05:44Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/uglifyjs","time":"2024-07-06T23:05:44Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/express/node_modules/.bin/mime","time":"2024-07-06T23:05:45Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/serve-static/node_modules/.bin/mime","time":"2024-07-06T23:05:46Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/socket.io-proxy/node_modules/.bin/wscat","time":"2024-07-06T23:05:46Z"}
